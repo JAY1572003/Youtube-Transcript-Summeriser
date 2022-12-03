@@ -4,4 +4,4 @@ Have you ever imagined getting a short summary of a big youtube tutorial or vide
 
 dataset :-[dataset.xlsx](https://github.com/JAY1572003/Youtube-Transcript-Summeriser/files/10146335/dataset.xlsx)
 
-ppy:- [youtube transcript summerisation.pptx](https://github.com/JAY1572003/Youtube-Transcript-Summeriser/files/10146323/youtube.transcript.summerisation.pptx)
+ppt:- [youtube transcript summerisation.pptx](https://github.com/JAY1572003/Youtube-Transcript-Summeriser/files/10146323/youtube.transcript.summerisation.pptx)
